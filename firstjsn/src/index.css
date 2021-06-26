@@ -1,0 +1,19 @@
+.prim{
+    color:red;
+}
+
+.activeclass{
+    color:rgb(247, 2, 23)
+}
+
+.ff{
+    font-size: 96px;
+}
+
+h1{
+    font-size: x-large;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    margin-top: 10px;
+    font-style:italic;
+}
